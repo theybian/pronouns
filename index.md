@@ -1,13 +1,13 @@
 # about
 - sev, 24, nd, white
-- nonbinary, transmasc, agender, genderfluid
-- oriented aroace lesbian
+- nonbinary lesbian
+- masculine and neutral terms only
 
 ## pronouns
-- [he/him](/pronouns/hehim.md)
-- [they/them]()
-- [xe/xem]()
-- [vin/vins]()
+- he/him
+- they/them
+- xe/xem
+- vin/vins
 
 ## do not interact
 - if you fit general DNI criteria (right-wing, trump supporter, anti-blm/acab, zionist)
