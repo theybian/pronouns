@@ -18,15 +18,12 @@
 - transmasc
 - agender
 - genderfluid
-- gendersykor (genderfluid label that encompasses a fluidity of alignment)
-
 
 ## sexuality
 
 - lesbian
 - sapphic (wlw)
 - trixic (nblw)
-- enbian (nblnb)
 - neptunic (nblw + nblnb exclusively)
 - oriented aroace (aroace with strong tertiary attraction)
 
