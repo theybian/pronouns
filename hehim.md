@@ -1,6 +1,7 @@
 # he/him
 
 subject pronoun | he
+--------------------
 object pronoun | him
 possessive determiner | his
 possessive determiner | his
