@@ -1,6 +1,8 @@
-# [@theybian](https://twitter.com/theybian)
-
-hi i'm sev and i make [flags]() and [pride planets]()!
+# about
+- sev
+- 24
+- nd
+- white
 
 ## pronouns
 - he/him
@@ -33,6 +35,8 @@ proshippers | do not repost my song/vid.
 ## links
 - redbubble
 - curiouscat
+- thread of my flags
+- thread of my pride planets
 
 ## other accounts
 - agenderlesbians
