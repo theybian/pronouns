@@ -22,13 +22,13 @@ hi i'm sev and i make [flags]() and [pride planets]()!
 
 **do not interact** | **note**
 ------------ | -------------
-general DNI criteria | .
-anti-blm/acab | .
-zionist | .
-terf, transmed | .
-anti-he/they lesbians | .
-pro-bi/pan/male lesbians | .
-proshippers | .
+general DNI criteria | i use blockchains and blocklists.
+anti-blm/acab | if you're blocked and you don't break my DNI criteria, send me a [CC](https://curiouscat.me/theybian) or DM my [backup](https://twitter.com/theybian1) to unblock.
+zionist | if you **do** fit my DNI criteria, do not ask me to unblock or why you were blocked.
+terf, transmed | i'll appreciate if you use tone tags with me (/j and /s especially).
+anti-he/they lesbians | if you need me to tag anything, don't hesitate to DM me!
+pro-bi/pan/male lesbians | this is a blanket permission to use my flags in art, memes, icons, headers, etc (credit is appreciate).
+proshippers | do not repost my song/vid.
 
 ## links
 - redbubble
