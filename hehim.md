@@ -10,9 +10,13 @@ reflexive pronoun | himself
 ## example
 
 **He** woke up at 7 am.
+
 I will meet **him** later.
+
 *He* told me **his** name was Sev.
+
 That notebook I found yesterday was **his**.
+
 *He* said he would finish it all by **himself**.
 
 
