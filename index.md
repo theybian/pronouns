@@ -21,7 +21,7 @@ hi i'm sev and i make [flags]() and [pride planets]()!
 ## before you follow
 
 do not interact | note
-----------------|-------------
+---------------------------
 general DNI criteria | .
 anti-blm/acab | .
 zionist | .
