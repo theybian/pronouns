@@ -30,7 +30,7 @@
 - neptunic (nblw + nblnb exclusively)
 - oriented aroace (aroace with strong tertiary attraction)
 
-## do not interact
+# do not interact
 
 - if you fit general DNI criteria 
 - right-wing, trump supporter, anti-blm/acab, zionist
@@ -59,7 +59,7 @@
 - you can follow if you're a minor or have no age in bio, but i won't follow back. current mutuals are ok!
 
 
-## twitter accounts
+# twitter accounts
 
 - [main account](https://twitter.com/theybian)
 - [agender lesbian positivity! (bot)](https://twitter.com/agenderlesbians)
