@@ -6,14 +6,35 @@
 
 ## pronouns
 
-- he/him
-- they/them
+- **he/him**
+- **they/them**
 - xe/xem
 - vin/vins
+- ~~she/her~~
+
+## gender
+
+- nonbinary
+- transmasc
+- agender
+- genderfluid
+- gendersykor (genderfluid label that encompasses a fluidity of alignment)
+
+
+## sexuality
+
+- lesbian
+- sapphic (wlw)
+- trixic (nblw)
+- enbian (nblnb)
+- neptunic (nblw + nblnb exclusively)
+- oriented aroace (aroace with strong tertiary attraction)
 
 ## do not interact
 
-- if you fit general DNI criteria (right-wing, trump supporter, anti-blm/acab, zionist)
+- if you fit general DNI criteria 
+- right-wing, trump supporter, anti-blm/acab, zionist
+- anti-vaxx, anti-mask
 - terf, radfem, gender critical
 - transmed, truscum
 - think there are only 2 genders
@@ -28,7 +49,9 @@
 
 ## note
 
-- i use blockchains and blocklists. if you're blocked and you don't break my DNI criteria, send me a [CC](https://curiouscat.me/theybian) or DM my [backup](https://twitter.com/theybian1) to unblock. if you **do** fit my DNI criteria, **do not** ask me to unblock or why you were blocked.
+- i use blockchains and blocklists. 
+- if you're blocked and you don't break my DNI criteria, send me a [CC](https://curiouscat.me/theybian) or DM my [backup](https://twitter.com/theybian1) to unblock. 
+- if you **do** fit my DNI criteria, **do not** ask me to unblock or why you were blocked.
 - i'll appreciate if you use tone tags with me (/j and /s especially).
 - if you need me to tag anything, don't hesitate to DM me!
 - this is a blanket permission to use my flags in art, memes, icons, headers, etc. **credit is appreciated.**
