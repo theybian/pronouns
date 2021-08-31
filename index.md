@@ -10,7 +10,6 @@
 - **they/them**
 - xe/xem
 - vin/vins
-- ~~she/her~~
 
 ## gender
 
