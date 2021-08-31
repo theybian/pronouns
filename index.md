@@ -1,4 +1,42 @@
-## Welcome to GitHub Pages
+# [@theybian](https://twitter.com/theybian)
+
+hi i'm sev and i make [flags]() and [pride planets]()!
+
+## pronouns
+- he/him
+- they/them
+- xe/xem
+- vin/vins
+
+## gender
+- nonbinary
+- agender
+- genderfluid
+- transmasc
+
+## sexuality
+- lesbian
+- oriented aroace
+
+## before you follow
+
+do not interact | note
+----------------|-------------
+general DNI criteria | .
+anti-blm/acab | .
+zionist | .
+terf, transmed | .
+anti-he/they lesbians | .
+pro-bi/pan/male lesbians | .
+proshippers | .
+
+## links
+- redbubble
+- curiouscat
+
+## other accounts
+- agenderlesbians
+- enbylesbians
 
 You can use the [editor on GitHub](https://github.com/theybian/pronouns/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
