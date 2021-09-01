@@ -2,9 +2,12 @@
 
 # about
 
-- sev, 24, nd, white
-- nonbinary lesbian
-- i use `masculine` and `neutral` terms **only**
+## names
+- sev
+- cass
+
+## age
+🎂 24
 
 ## pronouns
 
@@ -13,10 +16,14 @@
 - xe/xem
 - vin/vins
 
+## terms
+- masculine
+- neutral
+
 ## pride flags
 <img src="https://pbs.twimg.com/media/EyJ6deeWUAEdlEJ?format=png&name=large"  width=21/> **lesbian** <img src="https://pbs.twimg.com/media/EyJ6dozWgAMzmOx?format=png&name=large"  width=21 /> **nonbinary** <img src="https://pbs.twimg.com/media/E-KWnfOXoAITa2p?format=png&name=900x900"  width=21 /> **transmasc** <img src="https://pbs.twimg.com/media/EyJ6d0rXMAA2ffB?format=png&name=large"  width=21 /> **agender** <img src="https://pbs.twimg.com/media/E-KWnvpXEAAkORY?format=jpg&name=large"  width=21 /> **genderfluid** <img src="https://pbs.twimg.com/media/E-KWn7tXMAA1dR6?format=png&name=small"  width=21 /> **oriented aroace** 
 
-# twitter accounts
+## twitter accounts
 
 - [main account](https://twitter.com/theybian)
 - [agender lesbian positivity](https://twitter.com/agenderlesbians) (bot)
