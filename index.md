@@ -14,8 +14,7 @@
 - vin/vins
 
 ## pride flags
-<img src="https://pbs.twimg.com/media/EyJ6deeWUAEdlEJ?format=png&name=large"  width=20 /> `lesbian` • <img src="https://pbs.twimg.com/media/EyJ6dozWgAMzmOx?format=png&name=large"  width=20 /> `nonbinary` • <img src="https://pbs.twimg.com/media/E-KWnfOXoAITa2p?format=png&name=900x900"  width=20 /> `transmasc` • <img src="https://pbs.twimg.com/media/EyJ6d0rXMAA2ffB?format=png&name=large"  width=20 /> `agender` • <img src="https://pbs.twimg.com/media/E-KWnvpXEAAkORY?format=jpg&name=large"  width=20 /> `genderfluid` • 
-<img src="https://pbs.twimg.com/media/EyJ6eCzWEAIU5cu?format=png&name=large"  width=20 /> `transgender` • <img src="https://pbs.twimg.com/media/E-KWn7tXMAA1dR6?format=png&name=small"  width=20 /> `oriented aroace` • <img src="https://pbs.twimg.com/media/E3XeFP1WYAYHT8w?format=png&name=large"  width=20 /> `nonbinary lesbian` • <img src="https://pbs.twimg.com/media/E3XeDl2XwAEbReQ?format=jpg&name=medium"  width=20 /> `agender lesbian`
+<img src="https://pbs.twimg.com/media/EyJ6deeWUAEdlEJ?format=png&name=large"  width=20 /> `lesbian` <img src="https://pbs.twimg.com/media/EyJ6dozWgAMzmOx?format=png&name=large"  width=20 /> `nonbinary` <img src="https://pbs.twimg.com/media/E-KWnfOXoAITa2p?format=png&name=900x900"  width=20 /> `transmasc` <img src="https://pbs.twimg.com/media/EyJ6d0rXMAA2ffB?format=png&name=large"  width=20 /> `agender` <img src="https://pbs.twimg.com/media/E-KWnvpXEAAkORY?format=jpg&name=large"  width=20 /> `genderfluid` <img src="https://pbs.twimg.com/media/EyJ6eCzWEAIU5cu?format=png&name=large"  width=20 /> `transgender` <img src="https://pbs.twimg.com/media/E-KWn7tXMAA1dR6?format=png&name=small"  width=20 /> `oriented aroace` <img src="https://pbs.twimg.com/media/E3XeFP1WYAYHT8w?format=png&name=large"  width=20 /> `nonbinary lesbian` <img src="https://pbs.twimg.com/media/E3XeDl2XwAEbReQ?format=jpg&name=medium"  width=20 /> `agender lesbian`
 
 # do not interact
 
