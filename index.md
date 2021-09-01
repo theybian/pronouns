@@ -3,7 +3,7 @@
 hi i'm sev and i make flags 😎✌️
 
 <p>
-<table border="0">
+<table border="0" align="left">
  <tr>
     <td>
      <h2>names</h2>
