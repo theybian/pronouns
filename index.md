@@ -1,6 +1,17 @@
-<img src="https://pbs.twimg.com/profile_images/1431246860363177985/9uoc34_b_400x400.jpg"  width=100 /> <h1>about</h1>
-
+<img src="https://pbs.twimg.com/profile_images/1431246860363177985/9uoc34_b_400x400.jpg"  width=100 /> 
+<h1>about</h1>
 hi i'm sev and i make flags 😎✌️
+
+<table border="0">
+ <tr>
+    <td><h2>names</h2></td>
+    <td><h2>terms</h2></td>
+ </tr>
+ <tr>
+   <td><li>sev</li><li>cass</li></td>
+    <td><li>24 🎂 (march 18)</li></td>
+ </tr>
+</table>
 
 ## names 
 - **sev**
