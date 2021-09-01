@@ -1,5 +1,7 @@
 <img src="https://pbs.twimg.com/profile_images/1431246860363177985/9uoc34_b_400x400.jpg"  width=100 />
+
 # about
+
 - sev, 24, nd, white
 - nonbinary lesbian
 - i use masculine and neutral terms only
