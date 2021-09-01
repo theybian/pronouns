@@ -11,6 +11,9 @@
 - xe/xem
 - vin/vins
 
+## flags
+<img src="https://pbs.twimg.com/media/EyJ6deeWUAEdlEJ?format=png&name=large"  width=20 /> Lesbian • <img src="https://pbs.twimg.com/media/EyJ6dozWgAMzmOx?format=png&name=large"  width=20 /> Nonbinary • <img src="https://pbs.twimg.com/media/E-KWnfOXoAITa2p?format=png&name=900x900"  width=20 /> Transmasc • <img src="https://pbs.twimg.com/media/EyJ6d0rXMAA2ffB?format=png&name=large"  width=20 /> Agender • <img src="https://pbs.twimg.com/media/E-KWnvpXEAAkORY?format=jpg&name=large"  width=20 /> Genderfluid • <img src="https://pbs.twimg.com/media/E-KWn7tXMAA1dR6?format=png&name=small"  width=20 /> Oriented Aroace
+
 # do not interact
 
 - if you fit general dni criteria 
