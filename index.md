@@ -2,6 +2,8 @@
 
 # about
 
+hi i'm sev and i make flags 😎✌️
+
 ## names
 - sev
 - cass
