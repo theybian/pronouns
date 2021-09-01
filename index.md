@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="https://pbs.twimg.com/profile_images/1431246860363177985/9uoc34_b_400x400.jpg">
+
 <img src="https://pbs.twimg.com/profile_images/1431246860363177985/9uoc34_b_400x400.jpg"  width=100 />
 
 # about
