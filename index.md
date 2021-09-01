@@ -16,7 +16,7 @@ hi i'm sev and i make flags 😎✌️
  </tr>
  <tr>
    <td>
-    <li>sev</li>
+    <li><b>sev</b></li>
     <li>cass</li>
   </td>
     <td>
@@ -32,23 +32,9 @@ hi i'm sev and i make flags 😎✌️
  </tr>
 </table>
 
-## names 
-- **sev**
-- cass
 
 ## age
 - 24 🎂 (march 18)
-
-## pronouns
-
-- **he/him**
-- **they/them**
-- xe/xem
-- vin/vins
-
-## terms
-- masculine
-- neutral
 
 ## pride flags
 <img src="https://pbs.twimg.com/media/EyJ6deeWUAEdlEJ?format=png&name=large"  width=21/> **lesbian** <img src="https://pbs.twimg.com/media/EyJ6dozWgAMzmOx?format=png&name=large"  width=21 /> **nonbinary** <img src="https://pbs.twimg.com/media/E-KWnfOXoAITa2p?format=png&name=900x900"  width=21 /> **transmasc** <img src="https://pbs.twimg.com/media/EyJ6d0rXMAA2ffB?format=png&name=large"  width=21 /> **agender** <img src="https://pbs.twimg.com/media/E-KWnvpXEAAkORY?format=jpg&name=large"  width=21 /> **genderfluid** <img src="https://pbs.twimg.com/media/E-KWn7tXMAA1dR6?format=png&name=small"  width=21 /> **oriented aroace** 
