@@ -2,7 +2,7 @@
 
 - sev, 24, nd, white
 - nonbinary lesbian
-- masculine and neutral terms only
+- i use masculine and neutral terms only
 
 ## pronouns
 
@@ -10,20 +10,6 @@
 - **they/them**
 - xe/xem
 - vin/vins
-
-## gender
-
-- nonbinary
-- transmasc
-- agender
-- genderfluid
-
-## sexuality
-
-- lesbian
-- sapphic / wlw
-- trixic / nblw
-- oriented aroace
 
 # do not interact
 
