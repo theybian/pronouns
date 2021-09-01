@@ -28,7 +28,7 @@ hi i'm sev and i make flags 😎✌️
   </td>
      <td><ul>
     <li>masculine</li>
-    <li>neutral</li><ul>
+    <li>neutral</li></ul>
   </td>
  </tr>
 </table>
