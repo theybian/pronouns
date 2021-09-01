@@ -16,19 +16,19 @@ hi i'm sev and i make flags 😎✌️
   </td>
  </tr>
  <tr>
-   <td>
+   <td><ul>
     <li><b>sev</b></li>
-    <li>cass</li>
+    <li>cass</li></ul>
   </td>
-    <td>
+    <td><ul>
      <li><b>he/him</b></li>
     <li><b>they/them</b></li>
      <li>xe/xem</li>
-    <li>vin/vins</li>
+     <li>vin/vins</li></ul>
   </td>
-     <td>
+     <td><ul>
     <li>masculine</li>
-    <li>neutral</li>
+    <li>neutral</li><ul>
   </td>
  </tr>
 </table>
