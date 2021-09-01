@@ -6,17 +6,6 @@
 
 hi i'm sev and i make flags 😎✌️
 
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> <table border="0">
- <tr>
-    <td>## names</td>
-    <td>## age</td>
- </tr>
- <tr>
-    <td>Lorem ipsum ...</td>
-    <td>- 24 🎂 (march 18)</td>
- </tr>
-</table>
-
 ## names 
 - **sev**
 - cass
