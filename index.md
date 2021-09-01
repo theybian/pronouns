@@ -3,7 +3,7 @@
 hi i'm sev and i make flags 😎✌️
 
 <p>
-<table border="0" align="left">
+<table border="0">
  <tr>
     <td>
      <h2>names</h2>
@@ -16,32 +16,35 @@ hi i'm sev and i make flags 😎✌️
   </td>
  </tr>
  <tr>
-   <td><ul>
+   <td>
     <li><b>sev</b></li>
-    <li>cass</li></ul>
+    <li>cass</li>
   </td>
-    <td><ul>
+    <td>
      <li><b>he/him</b></li>
     <li><b>they/them</b></li>
      <li>xe/xem</li>
-     <li>vin/vins</li></ul>
+     <li>vin/vins</li>
   </td>
-     <td><ul>
+     <td>
     <li>masculine</li>
-    <li>neutral</li></ul>
+    <li>neutral</li>
   </td>
  </tr>
 </table>
 </p>
 
----------------------------
 
 
 ## age
 - 24 🎂 (march 18)
 
+---------------------------
+
 ## pride flags
 <img src="https://pbs.twimg.com/media/EyJ6deeWUAEdlEJ?format=png&name=large"  width=21/> **lesbian** <img src="https://pbs.twimg.com/media/EyJ6dozWgAMzmOx?format=png&name=large"  width=21 /> **nonbinary** <img src="https://pbs.twimg.com/media/E-KWnfOXoAITa2p?format=png&name=900x900"  width=21 /> **transmasc** <img src="https://pbs.twimg.com/media/EyJ6d0rXMAA2ffB?format=png&name=large"  width=21 /> **agender** <img src="https://pbs.twimg.com/media/E-KWnvpXEAAkORY?format=jpg&name=large"  width=21 /> **genderfluid** <img src="https://pbs.twimg.com/media/E-KWn7tXMAA1dR6?format=png&name=small"  width=21 /> **oriented aroace** 
+
+---------------------------
 
 ## twitter accounts
 
@@ -50,6 +53,8 @@ hi i'm sev and i make flags 😎✌️
 - [nonbinary lesbian positivity](https://twitter.com/enbylesbians) (bot)
 - [backup account](https://twitter.com/theybian1) (inactive)
 - ask for priv
+
+---------------------------
 
 
 ## links
