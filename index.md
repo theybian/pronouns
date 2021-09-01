@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/profile_images/1431246860363177985/9uoc34_b_400x400.jpg"  width=100 /> # about 
+<img src="https://pbs.twimg.com/profile_images/1431246860363177985/9uoc34_b_400x400.jpg"  width=100 /> <h1>about</h1>
 
 hi i'm sev and i make flags 😎✌️
 
