@@ -9,7 +9,7 @@ hi i'm sev and i make flags 😎✌️
 - cass
 
 ## age
-🎂 24
+- 24 🎂 (march 18)
 
 ## pronouns
 
