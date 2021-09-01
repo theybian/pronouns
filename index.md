@@ -7,7 +7,7 @@
 hi i'm sev and i make flags 😎✌️
 
 ## names
-- sev
+- **sev**
 - cass
 
 ## age
