@@ -4,12 +4,31 @@ hi i'm sev and i make flags 😎✌️
 
 <table border="0">
  <tr>
-    <td><h2>names</h2></td>
-    <td><h2>age</h2></td>
+    <td>
+     <h2>names</h2>
+  </td>
+  <td>
+     <h2>pronouns</h2>
+  </td>
+  <td>
+     <h2>terms</h2>
+  </td>
  </tr>
  <tr>
-   <td><li>sev</li><li>cass</li></td>
-    <td><li>🎂 24</li><li>(march 18)</li></td>
+   <td>
+    <li>sev</li>
+    <li>cass</li>
+  </td>
+    <td>
+     <li><b>he/him</b></li>
+    <li><b>they/them</b></li>
+     <li>xe/xem</li>
+    <li>vin/vins</li>
+  </td>
+     <td>
+    <li>masculine</li>
+    <li>neutral</li>
+  </td>
  </tr>
 </table>
 
