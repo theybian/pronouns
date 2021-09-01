@@ -16,28 +16,6 @@
 ## pride flags
 <img src="https://pbs.twimg.com/media/EyJ6deeWUAEdlEJ?format=png&name=large"  width=21/> **lesbian** <img src="https://pbs.twimg.com/media/EyJ6dozWgAMzmOx?format=png&name=large"  width=21 /> **nonbinary** <img src="https://pbs.twimg.com/media/E-KWnfOXoAITa2p?format=png&name=900x900"  width=21 /> **transmasc** <img src="https://pbs.twimg.com/media/EyJ6d0rXMAA2ffB?format=png&name=large"  width=21 /> **agender** <img src="https://pbs.twimg.com/media/E-KWnvpXEAAkORY?format=jpg&name=large"  width=21 /> **genderfluid** <img src="https://pbs.twimg.com/media/E-KWn7tXMAA1dR6?format=png&name=small"  width=21 /> **oriented aroace** 
 
-# do not interact
-
-- if you fit `general dni criteria`
-- right-wing, anti-blm/acab, zionist
-- terf, transmed
-- think there are only 2 genders
-- anti-he/they lesbians 
-- pro-bi/pan/male lesbians
-- proshippers
-
-
-## note
-
-- i use `blockchains` and `blocklists`. 
-- if you're blocked and you `don't` break my DNI criteria, send me a [CC](https://curiouscat.me/theybian) or DM my [backup](https://twitter.com/theybian1) to unblock. 
-- if you `do` fit my DNI criteria, `do not` ask me to unblock or why you were blocked.
-- if you need me to tag anything, `don't hesitate to DM!`
-- this is a blanket permission to use my flags in art, icons or headers. `credit is appreciated.`
-- ***do not repost my song/vid.***
-- you can follow if you're a minor or have no age in bio, but i won't follow back. current mutuals are ok!
-
-
 # twitter accounts
 
 - [main account](https://twitter.com/theybian)
