@@ -1,4 +1,4 @@
-
+<img src="https://pbs.twimg.com/profile_images/1431246860363177985/9uoc34_b_400x400.jpg" data-canonical="https://pbs.twimg.com/profile_images/1431246860363177985/9uoc34_b_400x400.jpg" width=100 />
 # about
 - sev, 24, nd, white
 - nonbinary lesbian
@@ -10,8 +10,6 @@
 - **they/them**
 - xe/xem
 - vin/vins
-
-<img src="https://pbs.twimg.com/profile_images/1431246860363177985/9uoc34_b_400x400.jpg" data-canonical="https://pbs.twimg.com/profile_images/1431246860363177985/9uoc34_b_400x400.jpg" width=100 />
 
 # do not interact
 
@@ -35,7 +33,6 @@
 - **do not repost my song/vid.**
 - you can follow if you're a minor or have no age in bio, but i won't follow back. current mutuals are ok!
 
-![image](https://pbs.twimg.com/profile_banners/1275422406941839361/1630070429/1080x360)
 
 # twitter accounts
 
@@ -53,3 +50,6 @@
 - [thread of my pride planets](https://twitter.com/theybian/status/1393646080659705861)
 - [stream my song!](https://twitter.com/theybian/status/1300540997185810433)
 - [my nonbinary lesbian flag](https://twitter.com/theybian/status/1403722750280220681)
+
+![image](https://pbs.twimg.com/profile_banners/1275422406941839361/1630070429/1080x360)
+
