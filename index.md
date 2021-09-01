@@ -37,7 +37,7 @@ hi i'm sev and i make flags 😎✌️
 
 
 ## links
-- [redbubble](https://theybian.redbubble.com) *(nonbinary lesbian flag, agender lesbian flag, pride planet buttons)*
+- [redbubble](https://theybian.redbubble.com) *(buttons, stickers)*
 - [curiouscat](https://curiouscat.com/theybian)
 - [tiktok](https://tiktok.com/@sevsbian)
 - [the thread of my flags](https://twitter.com/theybian/status/1308435954168979465?s=19)
