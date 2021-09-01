@@ -2,6 +2,7 @@
 <h1>about</h1>
 hi i'm sev and i make flags 😎✌️
 
+<p>
 <table border="0">
  <tr>
     <td>
