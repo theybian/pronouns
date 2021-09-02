@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="/assets/css/style.scss">
 <img src="IMG_20210901_065453.png"  width=100 /> 
 <h1>about</h1>
 hello i'm sev and i make flags 😎✌️
