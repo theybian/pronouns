@@ -15,7 +15,7 @@ hello i'm sev and i make flags 😎✌️
 - **he/him**
 
 <!-- Trigger/Open The Modal -->
-<button id="myBtn">Open Modal</button>
+<button id="myBtn">Open Modall</button>
 
 <!-- The Modal -->
 <div id="myModal" class="modal">
