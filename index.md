@@ -25,7 +25,7 @@ hello i'm sev and i make flags 😎✌️
 ---------------------------
 
 ## pride flags
-<img src="lesbian.png"  width=21 title="strawberry lesbian flag by @strwbryfemme on twitter"/> **lesbian** <img src="nonbinary.png" title="honeyed nonbinary flag by @cum_binary on twitter" width=21 /> **nonbinary** <img src="transmasc.png" title="citrus transmasc flag by @coalpng on twitter" width=21 /> **transmasc** <img src="agender.png" title="simplified agender flag by @agenderbot on twitter" width=21 /> **agender** <img src="genderfluid.png" title="gradient genderfluid flag by @theybian on twitter" width=21 /> **genderfluid** <img src="oriented.png" title="oriented aroace flag by @biaroace on tumblr" width=21 /> **oriented aroace** 
+<img src="lesbian.png"  width=21 title="strawberry lesbian flag by @strwbryfemme on twitter"/> **lesbian** <img src="nonbinary.png" title="honeyed nonbinary flag by @cum_binary on twitter" width=21 /> **nonbinary** <img src="transmasc.png" title="citrus transmasc flag by @coalpng on twitter" width=21 /> **transmasc** <img src="agender.png" title="agender flag by @transrants on tumblr" width=21 /> **agender** <img src="genderfluid.png" title="gradient genderfluid flag by @theybian on twitter" width=21 /> **genderfluid** <img src="oriented.png" title="oriented aroace flag by @biaroace on tumblr" width=21 /> **oriented aroace** 
 
 ---------------------------
 
