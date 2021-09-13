@@ -25,7 +25,7 @@ hello i'm sev and i make flags 😎✌️
 ---------------------------
 
 ## pride flags
-<img src="lesbian.png"  width=21/> **lesbian** <img src="nonbinary.png"  width=21 /> **nonbinary** <img src="transmasc.png"  width=21 /> **transmasc** <img src="agender.png"  width=21 /> **agender** <img src="genderfluid.png"  width=21 /> **genderfluid** <img src="oriented.png"  width=21 /> **oriented aroace** 
+<img style="border: 2px solid #347dcd; border-radius: 3px;" src="lesbian.png"  width=21/> **lesbian** <img style="border: 2px solid #347dcd; border-radius: 3px;" src="nonbinary.png"  width=21 /> **nonbinary** <img style="border: 2px solid #347dcd; border-radius: 3px;" src="transmasc.png"  width=21 /> **transmasc** <img style="border: 2px solid #347dcd; border-radius: 3px;" src="agender.png"  width=21 /> **agender** <img style="border: 2px solid #347dcd; border-radius: 3px;" src="genderfluid.png"  width=21 /> **genderfluid** <img style="border: 2px solid #347dcd; border-radius: 3px;" src="oriented.png"  width=21 /> **oriented aroace** 
 
 ---------------------------
 
