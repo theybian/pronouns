@@ -56,5 +56,5 @@ hello i'm sev and i make flags 😎✌️
 - [stream my song!](https://twitter.com/theybian/status/1300540997185810433)
 - [my nonbinary lesbian flag](https://twitter.com/theybian/status/1403722750280220681)
 
-![image](https://pbs.twimg.com/profile_banners/1275422406941839361/1630070429/1080x360)
+![image](sketch-1630070018861.png)
 
