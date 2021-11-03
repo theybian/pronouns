@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="/assets/css/style.scss">
-<img src="IMG_20210901_065453.png"  width=100 /> 
+<img src="iconsb.jpg"  width=100 /> 
 <h1>about</h1>
 hello i'm sev and i make flags 😎✌️
 
@@ -8,6 +8,7 @@ hello i'm sev and i make flags 😎✌️
 ## names
 - **sev**
 - cass
+- mars
 
 ---------------------------
 
@@ -20,7 +21,12 @@ hello i'm sev and i make flags 😎✌️
 ---------------------------
 
 ## terms
-- masculine and neutral
+- general rule: masculine and neutral terms
+- he/him girlfriend
+- they/them boyfriend
+- same for wife and husband respectively
+- dude, bro, guy as a slang are 👍
+- do not call me girl, woman, sis or other feminine terms
 
 ---------------------------
 
