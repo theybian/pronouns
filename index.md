@@ -40,6 +40,7 @@ hello i'm sev and i make flags 😎✌️
 - [main account](https://twitter.com/theybian)
 - [agender lesbian positivity](https://twitter.com/agenderlesbians) (bot)
 - [nonbinary lesbian positivity](https://twitter.com/enbylesbians) (bot)
+- [lgbtq cats](https://twitter.com/lgbtqcats) (inactive)
 - [backup account](https://twitter.com/theybian1) (inactive)
 - ask for priv (mutuals only!)
 
