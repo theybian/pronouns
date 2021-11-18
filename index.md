@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="/assets/css/style.scss">
-<img src="iconby.png"  width=100 /> 
+<img src="iconby.jpg"  width=100 /> 
 <h1>about</h1>
 hello i'm sev and i make flags 😎✌️
 
