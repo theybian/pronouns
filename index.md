@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="/assets/css/style.scss">
-<img src="iconsb.jpg"  width=100 /> 
+<img src="iconby.png"  width=100 /> 
 <h1>about</h1>
 hello i'm sev and i make flags 😎✌️
 
@@ -56,5 +56,5 @@ hello i'm sev and i make flags 😎✌️
 - [stream my song!](https://twitter.com/theybian/status/1300540997185810433)
 - [my nonbinary lesbian flag](https://twitter.com/theybian/status/1403722750280220681)
 
-![image](sketch-1630070018861.png)
+![image](headernby.jpg)
 
